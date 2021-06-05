@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  SOCKET_ENDPOINT: 'http://localhost:3000'
+  SOCKET_ENDPOINT: 'https://codenames1248.herokuapp.com/'
 };
