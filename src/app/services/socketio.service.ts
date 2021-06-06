@@ -13,6 +13,7 @@ export class SocketioService {
   constructor() { }
 
   connect(gameId) {
+    // this.socket = io();
     this.socket = io(environment.SOCKET_ENDPOINT);
     this.socket.emit('joinGame', { gameId: gameId });
   }
