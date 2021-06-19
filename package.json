@@ -7,7 +7,7 @@
   },
   "scripts": {
     "ng": "ng",
-    "start": "npm run start --prefix backenbd",
+    "start": "npm run start --prefix backend",
     "start-dev": "ng serve",
     "build": "ng build --prod",
     "test": "ng test",
