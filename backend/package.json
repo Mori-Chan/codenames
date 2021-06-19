@@ -8,9 +8,5 @@
     "start": "node index.js"
   },
   "author": "morichan",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^4.0.0"
-  }
+  "license": "ISC"
 }
